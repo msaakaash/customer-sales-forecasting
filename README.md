@@ -121,7 +121,7 @@ Feel free to fork this project and open a pull request.
 This project is licensed under the [MIT License](LICENSE).
 
 
-## Acknowledgement
+## Author
 
 [**Aakaash M S**](https://github.com/msaakaash)
 
