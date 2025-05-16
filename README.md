@@ -117,12 +117,9 @@ We welcome contributors to improve data pipelines, dashboard UI, and deployment 
 Feel free to fork this project and open a pull request.
 
 
-## 📄 License
+## License  
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software.
-
----
 
 ## 🙌 Acknowledgement
 
