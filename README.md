@@ -1,4 +1,4 @@
-# Customer Sales Forecasting & Churn Prediction
+# Customer Sales Forecasting and Churn Prediction
 
 A full-stack data science project that forecasts customer sales and predicts churn using machine learning, visual analytics, and interactive dashboards. This project is containerized with Docker and production-ready with a REST API built using FastAPI.
 
@@ -109,12 +109,18 @@ Visit [http://localhost:8501](http://localhost:8501)
 
 Visit [http://localhost:8000/docs](http://localhost:8000/docs) for interactive Swagger docs.
 
+## Code of Conduct
+
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
+
 
 ## Contributors Welcome!
 
 We welcome contributors to improve data pipelines, dashboard UI, and deployment strategies.
 
 Feel free to fork this project and open a pull request.
+
+
 
 
 ## License  
