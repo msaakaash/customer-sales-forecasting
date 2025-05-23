@@ -109,17 +109,14 @@ Visit [http://localhost:8501](http://localhost:8501)
 
 Visit [http://localhost:8000/docs](http://localhost:8000/docs) for interactive Swagger docs.
 
+## Contributing
+Contributions are welcome! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+
 ## Code of Conduct
+Please read our [Code of Conduct](docs/CODE_OF_CONDUCT.md) before contributing to this project.
 
-Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
-
-
-## Contributors Welcome!
-
-We welcome contributors to improve data pipelines, dashboard UI, and deployment strategies.
-
-Feel free to fork this project and open a pull request.
-
+## Security
+If you discover a vulnerability, please refer to our [Security Policy](docs/SECURITY.md) for instructions on how to report it responsibly.
 
 
 
